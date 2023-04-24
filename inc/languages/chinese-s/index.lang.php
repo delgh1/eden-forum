@@ -1,5 +1,5 @@
 <?php
- /**
+/**
  * MyBB 1.8 Chinese (Simplified) Language Pack
  * https://github.com/delgh1/mybb-chinese-translation
  * Maintainer: Jing Luo
@@ -7,14 +7,14 @@
  */
 
 $l['boardstats'] = "论坛统计数据";
-$l['new_posts'] = "板块有新帖子";
-$l['no_new_posts'] = "板块没有新帖子";
-$l['forum_closed'] = "板块已关闭";
-$l['forum_unapproved_posts_count'] = "板块有 {1} 个未批准帖子。";
-$l['forum_unapproved_post_count'] = "板块有1个未批准帖子。";
-$l['forum_unapproved_threads_count'] = "板块有 {1} 个未批准主题。";
-$l['forum_unapproved_thread_count'] = "板块有1个未批准主题。";
-$l['forumstats'] = "板块统计数据";
+$l['new_posts'] = "版块有新帖子";
+$l['no_new_posts'] = "版块没有新帖子";
+$l['forum_closed'] = "版块已关闭";
+$l['forum_unapproved_posts_count'] = "版块有 {1} 个未批准帖子。";
+$l['forum_unapproved_post_count'] = "版块有1个未批准帖子。";
+$l['forum_unapproved_threads_count'] = "版块有 {1} 个未批准主题。";
+$l['forum_unapproved_thread_count'] = "版块有1个未批准主题。";
+$l['forumstats'] = "版块统计数据";
 $l['todays_birthdays'] = "今天的生日";
 $l['birthdayhidden'] = "隐藏";
 $l['quick_login'] = "快速登录：";

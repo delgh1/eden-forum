@@ -1,5 +1,5 @@
 <?php
- /**
+/**
  * MyBB 1.8 Chinese (Simplified) Language Pack
  * https://github.com/delgh1/mybb-chinese-translation
  * Maintainer: Jing Luo
