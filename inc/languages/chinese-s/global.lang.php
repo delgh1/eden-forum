@@ -4,7 +4,6 @@
  * https://github.com/delgh1/mybb-chinese-translation
  * Maintainer: Jing Luo
  * Apr 21, 2023
- * - Incomplete translation
  */
 
 $l['redirect_width'] = "50%";
