@@ -124,9 +124,9 @@ $l['new_attachment'] = "新附件：";
 $l['add_attachment'] = "添加附件";
 $l['update_attachment'] = "更新附件";
 $l['attachment_missing'] = "请在尝试添付之前选择一个或多个附件。";
-$l['attachment_too_many_files'] = "你每次可以上传最多 {1} 个附件。";
-$l['attachment_max_allowed_files'] = "本帖你可以再添付 {1} 个文件。";
-$l['attachment_too_big_upload'] = "你每次最多可以上传 {1} MB。";
+$l['attachment_too_many_files'] = "你每次可以上传最多{1} 个附件。";
+$l['attachment_max_allowed_files'] = "本帖你可以再添付{1} 个文件。";
+$l['attachment_too_big_upload'] = "你每次最多可以上传{1} MB。";
 $l['drop_files'] = "点击或拖拽一些文件来上传...";
 $l['upload_initiate'] = "释放来开始上传...";
 $l['post_preview'] = "预览";
@@ -276,7 +276,7 @@ $l['postbit_multiquote'] = "引用这个帖子";
 $l['postbit_quick_edit'] = "快速编辑";
 $l['postbit_full_edit'] = "完整编辑";
 $l['postbit_show_ignored_post'] = "显示这个帖子";
-$l['postbit_currently_ignoring_user'] = "消息内容已隐藏，因为用户 {1} 在你的 <a href=\"usercp.php?action=editlists\">无视列表</a>.";
+$l['postbit_currently_ignoring_user'] = "消息内容已隐藏，因为用户{1}在你的 <a href=\"usercp.php?action=editlists\">无视列表</a>.";
 $l['postbit_post_under_moderation'] = "你提交的帖子正在被审查，尚未对公众可见。版主批准这个帖子后将对公众可见。";
 $l['postbit_warning_level'] = "警告级别：";
 $l['postbit_warn'] = "警告作者这个帖子";
@@ -285,7 +285,7 @@ $l['postbit_post_deleted'] = "这个帖子已经被删除";
 $l['postbit_post_unapproved'] = "这个帖子正在等待批准。";
 $l['postbit_thread_deleted'] = "这个主题已经被删除。";
 $l['postbit_thread_unapproved'] = "这个主题正在等待批准。";
-$l['postbit_deleted_post_user'] = "{1} 发的这个帖子已经被删除";
+$l['postbit_deleted_post_user'] = "{1}发的这个帖子已经被删除";
 
 $l['postbit_button_reputation_add'] = "评分";
 $l['postbit_button_website'] = "网站";
@@ -325,17 +325,17 @@ $l['on'] = "开启";
 $l['off'] = "关闭";
 $l['remote_avatar_disabled_default_avatar'] = "你正在使用远程头像，但远程头像已被禁用。将会使用默认头像。";
 $l['mod_notice'] = "等待审核： {1}。";
-$l['unapproved_thread'] = "1 个不批准的主题";
-$l['unapproved_threads'] = "{1} 个不批准的主题";
-$l['unapproved_post'] = "1 个不批准的帖子";
-$l['unapproved_posts'] = "{1} 个不批准的帖子";
-$l['unapproved_attachment'] = "1 个不批准的附件";
-$l['unapproved_attachments'] = "{1} 个不批准的附件";
-$l['unread_report'] = "1 个未读报告";
-$l['unread_reports'] = "{1} 个未读报告";
+$l['unapproved_thread'] = "1个不批准的主题";
+$l['unapproved_threads'] = "{1}个不批准的主题";
+$l['unapproved_post'] = "1个不批准的帖子";
+$l['unapproved_posts'] = "{1}个不批准的帖子";
+$l['unapproved_attachment'] = "1个不批准的附件";
+$l['unapproved_attachments'] = "{1}个不批准的附件";
+$l['unread_report'] = "1个未读报告";
+$l['unread_reports'] = "{1}个未读报告";
 $l['groupleader_notice'] = "组长通知：";
-$l['pending_joinrequest'] = "1 个等待处理的加群请求";
-$l['pending_joinrequests'] = "{1} 个等待处理的加群请求";
+$l['pending_joinrequest'] = "1个等待处理的加群请求";
+$l['pending_joinrequests'] = "{1}个等待处理的加群请求";
 
 $l['search_user'] = "搜索用户";
 
@@ -395,8 +395,8 @@ $l['unlimited'] = "无限";
 
 $l['click_hold_edit'] = "（长按编辑）";
 
-$l['guest_count'] = "1 个游客";
-$l['guest_count_multiple'] = "{1} 个游客";
+$l['guest_count'] = "1个游客";
+$l['guest_count_multiple'] = "{1}个游客";
 
 $l['size_yb'] = "YB";
 $l['size_zb'] = "ZB";
@@ -509,7 +509,7 @@ $l['missing_task'] = "错误：任务文件不存在";
 $l['task_backup_cannot_write_backup'] = "错误：数据库备份任务无法写入备份目录。";
 $l['task_backup_ran'] = "数据库备份任务成功执行。";
 $l['task_checktables_ran'] = "检查表格任务成功执行，没有找到损坏的表格。";
-$l['task_checktables_ran_found'] = "注意：检查表格任务成功执行，修复了 {1} 个损坏的表格。";
+$l['task_checktables_ran_found'] = "注意：检查表格任务成功执行，修复了{1}个损坏的表格。";
 $l['task_dailycleanup_ran'] = "每日清理任务成功执行。";
 $l['task_hourlycleanup_ran'] = "每小时清理任务成功执行。";
 $l['task_logcleanup_ran'] = "日志清理任务成功执行并删除了旧日志。";
@@ -523,8 +523,8 @@ $l['task_massmail_ran_errors'] = "一个或多个错误发生，发送到 \"{1}\
 {2}";
 $l['task_versioncheck_ran'] = "版本检查任务成功执行。";
 $l['task_versioncheck_ran_errors'] = "无法连接到MyBB检查版本。";
-$l['task_recachestylesheets_ran'] = "重新缓存了 {1} 个样式表。";
-$l['task_sendmailqueue_ran'] = "发送邮件任务发送了最多 {1} 邮件。";
+$l['task_recachestylesheets_ran'] = "重新缓存了{1}个样式表。";
+$l['task_sendmailqueue_ran'] = "发送邮件任务发送了最多{1}邮件。";
 
 $l['dismiss_notice'] = "忽略这条消息。";
 
@@ -539,17 +539,17 @@ $l['board_url'] = "论坛URL";
 
 $l['comma'] = "，";
 
-$l['debug_generated_in'] = "Generated in {1}";
+$l['debug_generated_in'] = "生成在{1}";
 $l['debug_weight'] = "({1}% PHP / {2}% {3})";
 $l['debug_sql_queries'] = "SQL Queries: {1}";
-$l['debug_server_load'] = "Server Load: {1}";
-$l['debug_memory_usage'] = "Memory Usage: {1}";
-$l['debug_advanced_details'] = "Advanced Details";
+$l['debug_server_load'] = "服务器负荷： {1}";
+$l['debug_memory_usage'] = "内存使用量： {1}";
+$l['debug_advanced_details'] = "高级详细";
 
-$l['error_emailflooding_1_second'] = "对不起，你每 {1} 分钟只能发送1封邮件。请在等1秒再尝试发送。";
-$l['error_emailflooding_seconds'] = "对不起，你每 {1} 分钟只能发送1封邮件。请在等 {2} 秒再尝试发送。";
-$l['error_emailflooding_1_minute'] = "对不起，你每 {1} 分钟只能发送1封邮件。请在等1分钟再尝试发送。";
-$l['error_emailflooding_minutes'] = "对不起，你每 {1} 分钟只能发送1封邮件。请在等 {2} 分钟再尝试发送。";
+$l['error_emailflooding_1_second'] = "对不起，你每{1}分钟只能发送1封邮件。请在等1秒再尝试发送。";
+$l['error_emailflooding_seconds'] = "对不起，你每{1}分钟只能发送1封邮件。请在等{2}秒再尝试发送。";
+$l['error_emailflooding_1_minute'] = "对不起，你每{1}分钟只能发送1封邮件。请在等1分钟再尝试发送。";
+$l['error_emailflooding_minutes'] = "对不起，你每{1}分钟只能发送1封邮件。请在等{2}分钟再尝试发送。";
 $l['error_invalidfromemail'] = "你没有输入一个有效的电子邮件地址。";
 $l['error_noname'] = "你没有输入一个有效的名字。";
 $l['your_email'] = "你的邮箱：";
@@ -578,17 +578,17 @@ $l['moderation_forum_edits'] = "请注意，本板块的修改的帖子必须被
 $l['moderation_forum_edits_quick'] = "请注意，本板块的修改的帖子必须被版主批准才能对公众可见。";
 $l['awaiting_message_link'] = " <a href=\"{1}/{2}/index.php?module=user-awaiting_activation\">跳转到管理员控制面板</a>.";
 $l['awaiting_message_single'] = "有1个账号等待激活。请到管理员控制面板激活用户。";
-$l['awaiting_message_plural'] = "有 {1} 个账号等待激活。请到管理员控制面板激活用户。";
+$l['awaiting_message_plural'] = "有{1}个账号等待激活。请到管理员控制面板激活用户。";
 
 $l['select2_match'] = "1个结果可用。请按回车键选择它。";
 $l['select2_matches'] = "{1} 个结果可用。请按回车键选择它。";
 $l['select2_nomatches'] = "没有找到对应的结果";
 $l['select2_inputtooshort_single'] = "请输入1个或多个字符";
-$l['select2_inputtooshort_plural'] = "请输入 {1} 个或多个字符";
+$l['select2_inputtooshort_plural'] = "请输入{1}个或多个字符";
 $l['select2_inputtoolong_single'] = "请删除1个字符";
-$l['select2_inputtoolong_plural'] = "请删除 {1} 个字符";
+$l['select2_inputtoolong_plural'] = "请删除{1}个字符";
 $l['select2_selectiontoobig_single'] = "你只能选择1个项目";
-$l['select2_selectiontoobig_plural'] = "你只能选择 {1} 个项目";
+$l['select2_selectiontoobig_plural'] = "你只能选择{1}个项目";
 $l['select2_loadmore'] = "加载更多结果&hellip;";
 $l['select2_searching'] = "正在搜索&hellip;";
 

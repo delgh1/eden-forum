@@ -22,13 +22,13 @@ $l['referrals_no_user_specified'] = "没有指定用户。";
 $l['referrals_invalid_user'] = "指定了无效的用户。";
 $l['member_no_referrals'] = "没有这个用户的推荐。";
 
-$l['tpp_option'] = "显示 {1} 主题每页";
-$l['ppp_option'] = "显示 {1} 帖子每页";
+$l['tpp_option'] = "显示{1}主题每页";
+$l['ppp_option'] = "显示{1}帖子每页";
 $l['account_activation'] = "用户激活";
 $l['activate_account'] = "激活用户";
 $l['activation_code'] = "激活码：";
 
-$l['email_user'] = "给 {1} 发送邮件";
+$l['email_user'] = "给{1}发送邮件";
 $l['email_subject'] = "邮件标题";
 $l['email_message'] = "邮件内容";
 $l['send_email'] = "发送邮件";
@@ -140,7 +140,7 @@ $l['relation'] = "关系：";
 $l['phone_no'] = "TEL:";
 $l['coppa_parent_agreement'] = "我了解我提供的信息是真实的，将来可以通过输入提供的密码更改任何信息，并且可以根据要求删除该用户帐户。";
 
-$l['coppa_agreement_1'] = "13 岁以下的用户必须获得其父母或法定监护人的许可才能在{1}注册。";
+$l['coppa_agreement_1'] = "13岁以下的用户必须获得其父母或法定监护人的许可才能在{1}注册。";
 $l['coppa_agreement_2'] = "一个父母或法定监护人需要下载并填写并提交给我们一份完整的 <a href=\"member.php?action=coppa_form\" target=\"_blank\" rel=\"noopener\">COPPA Compliance &amp; 许可表</a> 才能成功注册。";
 $l['coppa_agreement_3'] = "如果你想，你可以现在开始注册，但是账户知道许可表接收到后才能被访问。";
 
@@ -213,7 +213,7 @@ $l['redirect_validated'] = "谢谢，你的帐户已经过验证。<br />你现�
 
 $l['error_activated_by_admin'] = "你无法重新发送你的帐户激活电子邮件，因为所有注册都必须由管理员批准。";
 $l['error_alreadyregistered'] = "抱歉，我们的系统显示你已经注册，多账号注册已被禁用。";
-$l['error_alreadyregisteredtime'] = "我们无法处理你的注册，因为在过去 {2} 小时内已经有 {1} 个来自你的 IP 地址的新注册。请稍后再试。";
+$l['error_alreadyregisteredtime'] = "我们无法处理你的注册，因为在过去{2}小时内已经有{1}个来自你的 IP 地址的新注册。请稍后再试。";
 $l['error_badlostpwcode'] = "输入了无效的密码重置码。请重新阅读发送给你的电子邮件或联系论坛管理员以获得更多帮助。";
 $l['error_badactivationcode'] = "你输入了无效的帐户激活码。要将所有激活电子邮件重新发送到文件中的电子邮件地址，请单击<a href=\"member.php?action=resendactivation\">此处</a>。";
 $l['error_alreadyactivated'] = "你的账户已经激活或不需要邮箱验证。";
