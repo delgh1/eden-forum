@@ -38,6 +38,7 @@ $l['close'] = "关闭";
 $l['select_buddies'] = "选择好友";
 $l['select_buddies_desc'] = "要将你的一个或多个好友添加为收件人，请在下面选择他们并单击确定。";
 $l['selected_recipients'] = "选择的收件人";
+$l['ok'] = "OK";
 $l['cancel'] = "确定";
 $l['cancel'] = "取消";
 $l['online'] = "在线";

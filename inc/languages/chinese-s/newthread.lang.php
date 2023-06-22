@@ -51,4 +51,4 @@ $l['error_suspendedposting'] = "你的发帖权限正在被暂停{1}。<br /><br
 
 暂停日期：{2}";
 $l['error_suspendedposting_temporal'] = "直到{1}";
-$l['error_suspendedposting_permanent'] = "永久;
+$l['error_suspendedposting_permanent'] = "永久";

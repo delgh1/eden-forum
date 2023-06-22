@@ -15,5 +15,5 @@ $l['warnings_error_no_note'] = "你没有给这个警告输入任何行政的备
 $l['warnings_error_invalid_type'] = "你选择了无效的警告类型。";
 $l['warnings_error_cant_custom_warn'] = "你没有权限给用户发出自定义警告。";
 $l['warnings_error_no_custom_reason'] = "你没有给你的自定义警告输入一个原因。";
-$l['warnings_error_invalid_custom_points'] = "你没有给用户的警告级别输入一个有效的分数。你需要输入一个大于0但小于{1}的数字。";
+$l['warnings_error_invalid_custom_points'] = "你没有给用户的警告级别输入一个有效的分数。你需要输入一个大于0但小于 {1} 的数字。";
 $l['warnings_error_invalid_expires_period'] = "你输入了一个无效的过期类型。";
